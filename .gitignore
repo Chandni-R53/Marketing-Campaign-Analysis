@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+
+# Environment variables and secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
